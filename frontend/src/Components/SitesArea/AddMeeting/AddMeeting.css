@@ -1,0 +1,33 @@
+.AddMeeting input, select{
+    width: 250px;
+    box-sizing: border-box;
+    margin: 8px;
+    font-size: medium;
+    border-radius: 4px;
+
+}
+
+.AddMeeting button {
+    border-radius: 4px;
+    float: inherit;
+    background-color: blue; 
+    border: none;
+    color: white;
+    padding: 6px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+form{
+    text-align: left;
+    width: 30%;
+    margin: auto;
+}
+
+.AddMeeting span {
+    float: right;
+}
